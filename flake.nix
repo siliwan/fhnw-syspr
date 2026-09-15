@@ -17,6 +17,8 @@
             pkgs.gcc
             pkgs.gnumake
             pkgs.gdb
+            pkgs.libcap
+            pkgs.acl
           ];
         };
       });
